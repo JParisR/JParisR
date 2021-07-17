@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### 📊 Github Stats
 <a href='https://github.com/JParisR/GitHub-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/overview.svg?token=AR2BADWMUOUAVP5VD44ZHZDA7QY5U)
-![Most Used Languages](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/languages.svg?token=AR2BADXOMSUWBCWZQN46IPDA7QYZO)
+![Stats Overview](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/languages.svg)
 
 </a>
 
