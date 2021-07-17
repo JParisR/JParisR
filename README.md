@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+<br>
+
+
+### 📊 Github Stats
+<a href='https://github.com/JParisR/GitHub-stats'>
+  
+![Stats Overview](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/overview.svg?token=AR2BADWMUOUAVP5VD44ZHZDA7QY5U)
+![Most Used Languages](https://raw.githubusercontent.com/JParisR/GitHub-stats/master/generated/languages.svg?token=AR2BADXOMSUWBCWZQN46IPDA7QYZO)
+
+</a>
+
+<br>
