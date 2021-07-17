@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 </a>
 
 <br>
+
+
+#### #ProgrammerHumor :stuck_out_tongue_winking_eye:
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
+
