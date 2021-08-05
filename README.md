@@ -3,9 +3,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="600" />
 </div>  
 
-### <div align="center">I'm Javi, a DevOps engineer 👨‍💻 working remotely since 2020 🚀</div>  
+## <div align="center">I'm Javi, a DevOps engineer 👨‍💻</div>  
 
-## <div align="center">My skills </div>
+### <div align="center">Some of my favourite technologies!</div>
 <div align="center"> 
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
